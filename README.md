@@ -40,6 +40,8 @@ Welcome to Zing Afrique, where we bring the flavors and spices of Africa to your
 <details>
 <summary>Show High Fidelity Design</summary>
 
+![Desktop - 2](https://github.com/azateser/little-lemon-finalProject/assets/97871935/75e473b0-15f3-4073-a64d-fbc8dc3193bf)
+
 </details>
 
 ---
@@ -61,7 +63,8 @@ Welcome to Zing Afrique, where we bring the flavors and spices of Africa to your
 ## Todo
 
 - [x] Figma Wireframe design <br />
-- [ ] Figma High Fidelity design <br />
+- [x] Figma High Fidelity design <br />
+- [x] Project setup <br />
 
 ## Installation
 
