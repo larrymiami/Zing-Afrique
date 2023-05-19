@@ -17,6 +17,7 @@
   - [License](#license)
 
 ## Introduction
+
 Welcome to Zing Afrique, where we bring the flavors and spices of Africa to your plate. Our cuisine is a fusion of traditional African dishes and contemporary culinary techniques, resulting in a unique dining experience that's both familiar and exciting.
 
 ## Design
@@ -24,7 +25,6 @@ Welcome to Zing Afrique, where we bring the flavors and spices of Africa to your
 ---
 
 ### Wireframe
-
 
 <details>
 <summary>Show Wireframe</summary>
