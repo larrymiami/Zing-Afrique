@@ -1,0 +1,33 @@
+/* colors.css */
+
+:root {
+  --color-primary: #054F48;
+  --color-secondary: #FFCB45;
+  --background: #F0EADA;
+  --font-color: #000000;
+}
+
+/* typography.css */
+
+:root {
+  --font-primary: 'Hauora', sans-serif;
+}
+
+/* spacing.css */
+
+:root {
+  --spacing-xs: 0.5rem;
+  --spacing-sm: 1rem;
+  --spacing-md: 1.5rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 3rem;
+}
+
+/* breakpoints.css */
+
+:root {
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+}
