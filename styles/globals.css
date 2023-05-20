@@ -1,13 +1,4 @@
-:root {
-  --background: 44, 42%, 90%;
-  --primary: 174, 88%, 16%;
-  --secondary: 43, 100%, 64%;
-  --foreground: 0, 0%, 0%;
-
-  --border-radius: 1rem;
-  --font-hauora: "Hauora", sans-serif;
-}
-
+@import url('variables.css');
 
 * {
   box-sizing: border-box;
@@ -22,13 +13,8 @@ body {
 }
 
 body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  color: rgb(var(--font-color));
+  background-color: rgb(var(--background));
 }
 
 a {
@@ -36,8 +22,3 @@ a {
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-}
